@@ -1,26 +1,27 @@
 ### Hello hello 👋
 
-I'm a computer scientist who likes implementing creative solutions organizing and presenting information to power data-driven decision-making.
-Some notable projects that I've worked on or am working on are an optimal course scheduler, a citations migrator, and a web application to present unreported data.
+I'm a computer scientist who likes implementing creative solutions to power data-driven decision-making.
+Some notable projects that I've worked on or am working on are an optimal course scheduler and a paper-citation extraction tool.  
+  
 I'm always interested in learning more, so if you've run into an interesting problem, have an opportunity, or have a cool idea please do reach out! :)
 
-Some quick facts
+**Some quick facts**
 - Final year Computer Science @UWindsor
 - Data Scientist (intern) @Swift_Medical
 - Research Assistant @UWindsor
 
-Some cool tricks I've learned:
-- Data Science, how?
+**Some cool tricks I've learned:**
+- Data Science, how?  
   - Internship @Swift_Medical
   - Research Experience
   - Personal Experience
-- Software engineering, how?
+- Software engineering, how?  
   - Academic Experience
   - Internship @CWT
   - Research Experience
   - Personal Experience
  
-Things I've worked on:
+**Things I've worked on:**
 - Backend Development
 - Automation
 - Full Stack App Development
@@ -29,10 +30,10 @@ Things I've worked on:
 - Modelling, Fine-tuning, and model analysis
 - Project Management
 
-What I'm currently learning/working on:
+**What I'm currently learning/working on:**
 - Relation Extraction
 - Recommender Systems
-- Implementing Software Products
+- Graph Neural Networks
 - Productionizing Machine Learning Systems
 
 <!--
