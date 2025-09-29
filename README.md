@@ -6,7 +6,7 @@ A computer scientist with a focus on ml and data
 - Full Stack App Development
 - Natural Language Processing, Relation Extraction
 - Data Wrangling, Cleaning, and Analysis
-- Modelling, Fine-tuning, and model analysis
+- Modelling, Prompting, and Model Analysis
 - Project Management
 
 **What I'm currently learning/working on:**
